@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "Category": "Lifestyle",
+    "Premium_Level": "Premium"
+  },
+  "total_amenities": 8
+},
+{
+  "_id": {
+    "Category": "Recreation",
+    "Premium_Level": "Standard"
+  },
+  "total_amenities": 8
+},
+{
+  "_id": {
+    "Category": "Convenience",
+    "Premium_Level": "Standard"
+  },
+  "total_amenities": 8
+},
+{
+  "_id": {
+    "Category": "Luxury",
+    "Premium_Level": "Luxury"
+  },
+  "total_amenities": 8
+},
+{
+  "_id": {
+    "Category": "Green",
+    "Premium_Level": "Standard"
+  },
+  "total_amenities": 7
+},
+{
+  "_id": {
+    "Category": "Utilities",
+    "Premium_Level": "Standard"
+  },
+  "total_amenities": 6
+},
+{
+  "_id": {
+    "Category": "Sports",
+    "Premium_Level": "Standard"
+  },
+  "total_amenities": 6
+},
+{
+  "_id": {
+    "Category": "Fitness",
+    "Premium_Level": "Standard"
+  },
+  "total_amenities": 5
+},
+{
+  "_id": {
+    "Category": "Security",
+    "Premium_Level": "Standard"
+  },
+  "total_amenities": 5
+},
+{
+  "_id": {
+    "Category": "Business",
+    "Premium_Level": "Premium"
+  },
+  "total_amenities": 2
+}]
